@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://linchere.github.io/sitemap.html.gz
+Sitemap: https://linchere.github.io/app/sitemap.html.gz
+Sitemap: https://linchere.github.io/assets/sitemap.html.gz
+Sitemap: https://linchere.github.io/css/sitemap.html.gz
+Sitemap: https://linchere.github.io/includes/sitemap.html.gz
+Sitemap: https://linchere.github.io/item/sitemap.html.gz
+Sitemap: https://linchere.github.io/src/sitemap.html.gz
